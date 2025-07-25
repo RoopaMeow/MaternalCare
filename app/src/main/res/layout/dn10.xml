@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/little_pink"
+            android:orientation="vertical"
+            android:weightSum="10"
+            app:layout_constraintBaseline_toBaselineOf="parent"
+            tools:layout_editor_absoluteX="28dp">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="287dp"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/nutri">
+
+            </ImageView>
+
+            <TextView
+                android:layout_width="344dp"
+                android:layout_height="442dp"
+                android:layout_gravity="center_horizontal"
+                android:text="\n MONTH 10\n
+During the 10th month of pregnancy, a woman is typically in her 40th week of pregnancy, which means she is ready to give birth very soon. It's important to note that pregnancy lasts for approximately 40 weeks, so a 10th-month pregnancy doesn't typically exist. If you meant the 9th month or later stages of the 3rd trimester, I can provide some general dietary guidelines for pregnant women during this time:
+ Balanced Diet: Continue to focus on a well-balanced diet that includes a variety of foods from all food groups to ensure you get all the necessary nutrients. This includes fruits, vegetables, lean proteins, whole grains, and dairy or dairy alternatives.
+
+            Iron: Make sure you're getting enough iron, as your blood volume increases during pregnancy. Good sources of iron include lean red meat, poultry, fish, beans, and fortified cereals.
+
+            Folate: Folate is important for fetal development. You can get folate from leafy greens, fortified cereals, and legumes.
+
+            Calcium: Continue to get enough calcium for bone development. Dairy products, fortified plant-based milk, and leafy greens are good sources of calcium.
+
+            Fiber: Constipation can be a common issue during pregnancy. Include high-fiber foods like whole grains, fruits, and vegetables in your diet to help with digestion.
+
+            Protein: Adequate protein intake is important for the growth of your baby. Good sources of protein include lean meats, poultry, fish, eggs, and plant-based options like beans and tofu.
+
+            Hydration: Stay well-hydrated by drinking plenty of water throughout the day.
+
+            Omega-3 Fatty Acids: These are important for the development of your baby's brain and eyes. You can find them in fatty fish like salmon, walnuts, flaxseeds, and chia seeds.
+
+            Avoid Empty Calories: While you may have increased calorie needs during pregnancy, it's important to avoid empty calories from sugary and highly processed foods. Focus on nutrient-dense choices instead.
+
+            Small, Frequent Meals: As you approach the end of your pregnancy, you might find it uncomfortable to eat large meals. Consider eating smaller, more frequent meals and snacks to help manage digestion and prevent heartburn.
+
+            Consult with a Healthcare Provider: Always consult with your healthcare provider for personalized dietary advice, especially in the later stages of pregnancy, as individual needs can vary.
+                           Thankyou for following all our guideliness
+                                         HAPPY PARENTING...!"
+
+                android:textAlignment="center"
+                android:textSize="20dp"
+                android:textColor="@color/black"/>
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

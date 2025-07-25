@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Maternal Care"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Material3.Dark"
+        tools:targetApi="31">
+        <activity
+            android:name=".dn1"
+            android:exported="false" />
+        <activity
+            android:name=".alarm_set"
+            android:exported="false" />
+        <activity
+            android:name=".d10"
+            android:exported="false" />
+        <activity
+            android:name=".d9"
+            android:exported="false" />
+        <activity
+            android:name=".d8"
+            android:exported="false" />
+        <activity
+            android:name=".d7"
+            android:exported="false" />
+        <activity
+            android:name=".d6"
+            android:exported="false" />
+        <activity
+            android:name=".d5"
+            android:exported="false" />
+        <activity
+            android:name=".d4"
+            android:exported="false" />
+        <activity
+            android:name=".d3"
+            android:exported="false" />
+        <activity
+            android:name=".d2"
+            android:exported="false" />
+        <activity
+            android:name=".d1"
+            android:exported="false" />
+        <activity
+            android:name=".ServiceMine"
+            android:enabled="true"
+            android:foregroundServiceType="location" />
+        <activity
+            android:name=".RegisterNumberActivity"
+            android:exported="false" />
+        <activity
+            android:name=".profile"
+            android:exported="false" />
+        <activity
+            android:name=".scheduling"
+            android:exported="false" />
+        <activity
+            android:name=".sos"
+            android:exported="false" />
+        <activity
+            android:name=".nutrientsanddietchart"
+            android:exported="false" />
+        <activity
+            android:name=".Homepage"
+            android:exported="false" />
+        <activity
+            android:name=".Register"
+            android:exported="false"
+            android:theme="@style/Theme.Material3.Light.NoActionBar" />
+        <activity
+            android:name=".login"
+            android:exported="true"
+            android:theme="@style/Theme.Material3.Light.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity5"
+            android:exported="false" />
+        <activity
+            android:name=".exercise"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity3"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+
+        <receiver android:name=".AlarmReceiver" />
+
+    </application>
+
+</manifest>

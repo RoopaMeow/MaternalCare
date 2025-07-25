@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".d5">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/little_pink"
+            android:orientation="vertical"
+            android:weightSum="10"
+            app:layout_constraintBaseline_toBaselineOf="parent">
+
+            <ImageView
+                android:layout_width="361dp"
+                android:layout_height="286dp"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/mont5_5">
+
+            </ImageView>
+
+            <TextView
+                android:layout_width="344dp"
+                android:layout_height="609dp"
+                android:layout_gravity="center_horizontal"
+                android:text="Whatever your habits were before you got pregnant, it’s usually safe to:
+
+walk or jog
+do yoga (especially prenatal!)
+swim
+hike outdoors, as long as you do it safely (e.g., with a fellow hiker, on familiar trails)
+take low-impact aerobics or dance classes
+lift light weights (tip: focus more on reps for strength training)
+do stationary cycling
+do stretches and leg lifts"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="20dp" />
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

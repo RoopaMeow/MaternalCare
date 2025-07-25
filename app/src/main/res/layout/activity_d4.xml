@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".d4">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/little_pink"
+            android:orientation="vertical"
+            android:weightSum="10"
+            app:layout_constraintBaseline_toBaselineOf="parent">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="418dp"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/mont4">
+
+            </ImageView>
+
+            <TextView
+                android:layout_width="344dp"
+                android:layout_height="1172dp"
+                android:layout_gravity="center"
+                android:text="Sit up with your back straight and your shoulders back. Your buttocks should touch the back of your chair.
+Sit with a back support (such as a small, rolled-up towel or a lumbar roll) placed at the hollow of your back. Here’s how to find a good sitting position when you’re not using a back support or lumbar roll:
+Sit at the end of your chair and slouch completely.
+Draw yourself up and accentuate the curve of your back as far as possible.
+Hold for a few seconds.
+Release the position slightly (about 10 degrees).
+Distribute your body weight evenly on both hips.
+Keep your hips and knees at a 90-degree angle. Use a footrest or stool if necessary. Your legs shouldn’t be crossed and your feet should be flat on the floor."
+                android:textAlignment="center"
+                android:textSize="20dp"
+                android:textColor="@color/black"/>
+        </LinearLayout>
+    </ScrollView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

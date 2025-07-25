@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/little_pink"
+            android:orientation="vertical"
+            android:weightSum="10"
+            app:layout_constraintBaseline_toBaselineOf="parent"
+            tools:layout_editor_absoluteX="28dp">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="287dp"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/nutri">
+
+            </ImageView>
+
+            <TextView
+                android:layout_width="344dp"
+                android:layout_height="1758dp"
+                android:layout_gravity="center_horizontal"
+                android:text="\nMONTH 4\n
+Sit up with your back straight and your shoulders back. Your buttocks should touch the back of your chair.
+Sit with a back support (such as a small, rolled-up towel or a lumbar roll) placed at the hollow of your back. Here's how to find a good sitting position when you are not using a back support or lumbar roll:
+Sit at the end of your chair and slouch completely.
+Draw yourself up and accentuate the curve of your back as far as possible.
+Hold for a few seconds.
+Release the position slightly (about 10 degrees).
+Distribute your body weight evenly on both hips.
+Keep your hips and knees at a 90-degree angle. Use a footrest or stool if necessary. Your legs shouldn't be crossed and your feet should be flat on the floor.
+The Fourth Month: What To Eat
+Here is a plan you can follow during the 4th month of pregnancy diet.\n
+
+1. High Fiber:\n
+Choose a high fiber diet during the 4th month of pregnancySave\n
+This is the perfect time to start building a foundation for freedom from
+constipation in the later part of pregnancy and after delivery. So, add
+ lots of fiber to your 4th-month pregnancy diet, and that, too, in each
+ meal.\n
+Eat plenty of high-fiber foods like whole grains, oats, and green
+vegetables rich in complex carbohydrates, vitamins, and minerals, such as
+ folate. In addition, opt for iron-fortified whole wheat bread instead of
+ regular white bread.\n
+Expecting women should aim to consume 28g of fiber daily.\n
+2. Essential Fatty Acids:\n
+Besides other things, the baby and your body need these acids to lower
+ the risk of premature labor, low birth weight, and mental and cognitive
+  retardation in the baby. Therefore, experts advise adding sufficient
+   omega 3, 6, and 9 fatty acids to the maternal diet. Foods like
+   freshwater fish, tinned tuna, nuts, and olive oil are nutritious foods
+    you can safely eat to meet your essential acid needs.\n
+3. Dairy Products:\n
+Your calcium requirement during pregnancy increases. Hence, your doctor
+ will probably prescribe you a vitamin D and calcium pill on entering the
+ fourth month of pregnancy. They will also give you dietary tips to
+  raise your daily calcium intake.\n
+4. Meats:\n
+If your nausea is gone, you can include meat in your diet; but do
+ make sure it is washed and cooked very thoroughly. Undercooked meat
+  may carry deadly viruses and bacteria. If you are tempted (or obligated)
+   to eat out, order tandoori or roasted meat as it is sure to be
+   cooked through and through. Lean meat, like chicken, eggs, and fish,
+    are high-protein foods women can safely consume during pregnancy."
+
+
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="20dp" />
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".scheduling"
+    android:orientation="vertical"
+    android:background="@color/white">
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Select Time 1"
+    android:id="@+id/selectTime1"
+    android:textSize="40sp"
+    android:layout_gravity="center"
+    android:textColor="@color/black"
+    android:textAlignment="center"/>
+
+    <!-- Second TextView -->
+<TextView
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Select Time 2"
+android:id="@+id/selectTime2"
+android:textSize="40sp"
+android:layout_gravity="center"
+android:textColor="@color/black"
+android:textAlignment="center"/>
+
+    <!-- Third TextView -->
+<TextView
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Select Time 3"
+android:id="@+id/selectTime3"
+android:textSize="40sp"
+android:layout_gravity="center"
+android:textColor="@color/black"
+android:textAlignment="center"/>
+
+<RelativeLayout
+android:layout_width="391dp"
+android:layout_height="649dp">
+
+<Button
+    android:id="@+id/setalarm1"
+    android:layout_width="wrap_content"
+    android:layout_height="69dp"
+    android:layout_alignParentStart="true"
+    android:layout_marginStart="0dp"
+    android:gravity="center"
+    android:padding="8dp"
+    android:text="Schedule your intakes 1"
+    android:textSize="20sp" />
+
+<Button
+    android:id="@+id/setalarm2"
+    android:layout_width="wrap_content"
+    android:layout_height="69dp"
+    android:layout_below="@+id/setalarm1"
+    android:layout_alignParentStart="true"
+    android:layout_marginStart="0dp"
+    android:gravity="center"
+    android:padding="8dp"
+    android:text="Schedule your intakes 2"
+    android:textSize="20sp" />
+
+<Button
+    android:id="@+id/setalarm3"
+    android:layout_width="wrap_content"
+    android:layout_height="69dp"
+    android:layout_below="@+id/setalarm2"
+    android:layout_alignParentStart="true"
+    android:layout_marginStart="0dp"
+    android:gravity="center"
+    android:padding="8dp"
+    android:text="Schedule your intakes 3"
+    android:textSize="20sp" />
+
+<Button
+    android:id="@+id/cancelalarm"
+    android:layout_width="157dp"
+    android:layout_height="71dp"
+    android:layout_alignParentEnd="true"
+    android:layout_marginStart="16dp"
+    android:layout_toEndOf="@+id/setalarm3"
+    android:layout_below="@+id/setalarm3"
+    android:gravity="center"
+    android:padding="8dp"
+    android:text="Cancel Alarm"
+    android:textSize="20sp" />
+</RelativeLayout>
+    </LinearLayout>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/little_pink"
+            android:orientation="vertical"
+            android:weightSum="10"
+            app:layout_constraintBaseline_toBaselineOf="parent"
+            tools:layout_editor_absoluteX="28dp">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="287dp"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/nutri">
+
+            </ImageView>
+
+            <TextView
+                android:layout_width="344dp"
+                android:layout_height="5294dp"
+                android:layout_gravity="center_horizontal"
+                android:text="\n MONTH 6\n
+Sleep on your side with a pillow between your legs.
+Bend your knees (squat) to pick things up from the floor or low places.
+Use a step stool to reach high shelves.
+Drink plenty of fluids, preferably water.
+Take off rings if they get too tight on your fingers.
+Sit or stand with your shoulders and back relaxed .
+When sitting, keep your feet flat on the floor.
+Be aware that your center of gravity and balance point is changing.
+Place one foot on a low step stool if you are standing for a long period of time.
+Use a desk chair that fits you comfortably and supports your lower back.
+Adjust your car seat and steering wheel to accommodate your changing shape.
+Wash your hands thoroughly when handling uncooked meat.
+
+Foods to include in 6th Month Pregnancy Diet
+1. Eat foods rich in folic acid
+During your sixth month pregnancy diet you must incorporate foods rich in folic acid. It is vital for the brain development of the foetus. Also, regular intake of folic acid aids in toning up the babyâ€™s spinal cord. The following foods are rich in folic acid.
+
+Whole grain breads
+Fortified Cereals
+Vegetables like okra, lentils, Brussels sprouts, cauliflower, beets, peas, corns, and beans
+Green vegetables like spinach, romaine lettuce, turnip leaves, mustard leaves, etc.
+Broccoli
+Fruits like avocados, strawberry, cantaloupe, raspberry, orange, grape, banana, etc.
+Nuts like peanuts and almonds
+Seeds like flax seeds, sunflower seeds, pumpkin seeds, and sesame seeds
+2. Proteins
+Proteins make up to an important nutrient of your sixth month pregnancy diet. However, make sure not to consume fatty fish, meat fat etc. In fact, itâ€™s better not to consume too much of meat and meat products during pregnancy, especially red meats. You must try to incorporate the following good sources of protein in your diet
+
+Lean meat
+Black beans
+White fish
+Tofu
+Eggs
+3. Carbohydrates
+One or two portions of carbohydrates a day are advised when pregnant. But remember that this also is dependent on the amount of weight you have put on in this period. You should go for
+
+Pasta
+Potatoes
+Oats
+Sweet corn
+Nuts
+4. Vegetables
+Vegetables have to be consumed throughout pregnancy. The nutritional value of vegetables is not a secret and while following sixth month pregnancy diet, vegetables become all the more crucial part of your daily diet. You should incorporate the following vegetables in your diet
+
+Carrots
+Tomatoes
+Turnip
+Pumpkin
+Green beans
+Beetroot
+Cabbage
+Eggplant/Brinjal
+Asparagus
+Spinach
+These tasty vegetables will provide a nourishment for your baby and also to you.
+
+5. Fresh Fruits
+You know that Fresh fruits are said to deliver essential vitamins required for the progress of a healthy pregnancy. Fresh fruits are tasty as well as they refresh or revitalize you. Including different types of fruits in the daily meal menu can keep you away from various health issues which occur due to deficiency of vitamins.
+
+The goodness that the fruits are loaded with makes them super foods to eat during pregnancy. Similarly, fruits also provide necessary minerals that help with the babys' growth and development. You can never get bored or tired of eating fruits since there is a huge variety.
+
+Grapes
+Apples
+Oranges
+Clementine
+Bananas
+Kiwis
+Pears
+
+6. Dairy Products
+Dairy foods are rich in calcium. Intake of dairy products ensures that the baby will have strong bones and teeth. They are also rich in proteins. You can opt for low-fat or skimmed dairy products if you are worried about putting on weight. Try to take at least one liter of milk or milk products every day.
+
+This you can achieve by taking one glass of milk in the morning and evening. If you used to avoid eating dairy products before, now you can sinfully indulge in them. Your babys' bones will get strong and it will also help you to save your calcium reserves. However, some women develop intolerance to lactose during pregnancy so always take advice from your nutritionist. Eat lots of
+
+Yoghurt
+Milk
+Paneer
+Cheese
+7. Fluids
+Remember to consume lots of water, juices during sixth month of pregnancy. Itâ€™s always better to drink fresh juices since they have presence of healthy natural sugars rather than unhealthy processed juices. Freshly squeezed fruit juices provide you with the necessary nutrients to have a healthy baby. Fluids not only provide essential minerals and nutrients but also help in keeping constipation away during pregnancy. It is recommended to drink 2 to 3 liters of fluids every day. It helps in replenishing and hydrating your body.
+
+Foods to avoid in 6th Month Pregnancy Diet
+Often pregnant women have cravings for sweet, spicy and unhealthy foods. It is okay to pamper yourself sometimes eating your favorite street food. There are a few foods that are a big NO while you are pregnant. Especially up to your 6th month. Here are few of them
+
+1. Seafood
+You can feel a sudden craving to eat sushi but never eat sushi during pregnancy. Raw fish carries high levels of methyl mercury that can lead to food borne diseases which can prove to be risky for the baby inside you.
+
+2. Non-Pasteurized Cheese
+Avoid soft cheeses at all cost since they are not pasteurized. Eat hard cheese only while pregnant, especially during your sixth month of pregnancy diet. Pathogenic bacteria can also be present in this cheese so its better to avoid it from your diet.
+
+3. Under cooked Meat
+Cook meat products very well as the pathogenic bacteria can be hidden in meat which can lead to various diseases if consumed under cooked. When you happen to cook meat for meals make sure to cook it really well so that you are able to digest it. It will help to avoid the risk of diseases like Listeriosis. It is best to completely avoid meat that is cooked outside in restaurants.
+
+4. Spicy Street Food/Junk Food
+Sometimes you will crave for hot and spicy foods but it is recommended to avoid too spicy foods. You must remember that now you just have three or four months to go for the final date. Moreover, spicy foods lead to stomach burns, and discomfort. It's also not a great flavor choice to give your baby, so resist your cravings for foods that are too spicy. You must eat healthy because the food which you eat also affects the child. Try and replace the junk food with other healthier snack options. Instead of potato chips, eat some freshly made banana chips and when you crave a sweet, indulge on some fresh and seasonal fruits.
+
+5. Alcohol and Tobacco
+The damage which is done to the foetus when you drink or smoke while pregnant can be beyond repair, or even fatal. You completely need to stay away from tobacco and alcohol while you are pregnant.
+
+6. Caffeine
+Avoid caffeinated drinks like tea, coffee and carbonated drinks. Drinking green tea is a much healthier option to choose as it soothes and calms you down, which is exactly what you need during pregnancy.
+
+Except these foods, make sure to completely avoid taking any medicines without being prescribed by your doctor during pregnancy sixth month and even later. Only the supplements and medicines prescribed by health provider should be taken. Keep in mind to do some basic research if any medicines that you consume are safe for your little baby or not. Make sure you clearly inform the doctor that you are expecting.
+
+Consuming a healthy and balanced diet and also providing essential nutrients to your body and baby has to be on your radar always. A healthy mother will deliver a healthy baby, so keep in mind that your health is of utmost importance too. When you ensure that what you eat everyday is nutritious and essential for your babyâ€™s growth, you ensure that your deliver a healthy bouncing baby.
+"
+
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="20dp" />
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

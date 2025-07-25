@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/little_pink"
+            android:orientation="vertical"
+            android:weightSum="10"
+            app:layout_constraintBaseline_toBaselineOf="parent"
+            tools:layout_editor_absoluteX="28dp">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="287dp"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/nutri">
+
+            </ImageView>
+
+            <TextView
+                android:layout_width="344dp"
+                android:layout_height="1765dp"
+                android:layout_gravity="center_horizontal"
+                android:text="\n MONTH 2\n
+As the baby starts to grow from the 2nd trimester onwards, you will need to change the way you used to sit. While sitting, don't forget to keep your back straight and the shoulders must be pulled back. The buttocks should reach the back of the chair.
+During the second trimester, people should continue eating a balanced diet. The following nutrients are the most important for pregnant ladies.\n\n
+Iron helps to carry oxygen around the body. During pregnancy, iron supplies oxygen to the developing baby.
+The recommended daily iron intake during pregnancy is 27 milligrams (mg)Trusted Source.\n\n
+
+Sources of iron include:\n\n
+
+==lean meat
+==cooked seafood
+==leafy green vegetables
+==nuts
+==beans and lentils
+==whole grains, including bread and oatmeal
+==fortified breakfast cereals
+\n
+Protein\n
+In the later stages of pregnancy, women should aim to eat 1.52 grams (g) per kilogram (kg) of body weightTrusted Source each day to help the babyâ€™s brain and other tissue grow. For example, a woman who weighs 79 kg (175 pounds) should try to eat 121 g of protein daily.
+
+Protein is also necessary for the growth of the motherâ€™s uterus and breasts.
+
+Good sources of protein include:\n
+
+lean meats
+nuts
+tofu and tempeh
+eggs
+fish (cooked, not raw)
+peas, beans, and lentils\n
+
+Calcium\n
+The recommended dietary allowanceTrusted Source for calcium during pregnancy is 1,000 mg. Anyone who is less than 18 years old, who is pregnant, should aim to consume 1,300 mg of calcium daily.
+
+Calcium helps the baby's bones and teeth form, and it plays a role in the smooth running of the muscles, nerves, and circulatory system.
+
+Calcium-rich foods include:\n
+
+dairy (milk, yogurt, pasteurized cheese)
+eggs
+tofu
+white beans
+almonds
+sardines and salmon (with bones)
+greens, such as kale, broccoli, and turnip greens
+calcium-fortified fruit juices and breakfast cereals
+Fluids:\n
+Pregnant people need more water than those who are not pregnant to stay hydrated. Water helps form the placenta and the amniotic sac. Dehydration during pregnancy can contribute to complications, such as neural tube defects and reduced breast milk production.
+
+Anyone who is pregnant should drink at least 8 to 12 glasses of water a day to prevent dehydration and its complications.
+
+"
+
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="20dp" />
+        </LinearLayout>
+    </ScrollView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

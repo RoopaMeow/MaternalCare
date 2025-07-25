@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".d8">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/little_pink"
+            android:orientation="vertical"
+            android:weightSum="10"
+            app:layout_constraintBaseline_toBaselineOf="parent">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="316dp"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/mont8">
+
+            </ImageView>
+
+            <TextView
+                android:layout_width="384dp"
+                android:layout_height="892dp"
+                android:layout_gravity="center_horizontal"
+                android:text="
+How to sit: poor posture
+Sitting with a slumped posture unlocks your pelvis and can be painful when you move.
+If you sit unsupported, or on a soft chair for a long time, you will end up slumping.
+\nHow to sit: good posture
+Sitting straight or with a slightly arched back is a good posture to adopt. Your breasts should be pointing straight ahead or slightly upwards and should not be resting on your tummy. Your legs should be apart so that your bump has somewhere to go.
+\nHow to stand up: step 1
+Arch your back and upper chest and part your legs. In this position, slowly work your pelvis back and forth, making your back round and then arched. Do these actions rhythmically a few times, without moving your shoulders.
+\nHow to stand up: step 2
+\nLean forwards, keeping your back arched and chest stuck out. If getting up is hard on your legs, place your hands by your side, so you can push off the bed or chair.
+As you lean forward, ensure your knees are above your toes before you stand fully. This will help you to get your balance and keep you more stable."
+                android:textAlignment="center"
+                android:textSize="20dp"
+                android:textColor="@color/black"/>
+        </LinearLayout>
+    </ScrollView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

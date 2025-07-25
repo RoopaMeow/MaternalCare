@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/little_pink"
+            android:orientation="vertical"
+            android:weightSum="10"
+            app:layout_constraintBaseline_toBaselineOf="parent"
+            tools:layout_editor_absoluteX="28dp">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="287dp"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/nutri">
+
+            </ImageView>
+
+            <TextView
+                android:layout_width="344dp"
+                android:layout_height="2410dp"
+                android:layout_gravity="center_horizontal"
+                android:text="\n MONTH 9 \n.Try to avoid sitting in the same position for more than 30 minutes. At work, adjust your chair height and workstation so you can sit up close to your work and tilt it up at you. Rest your elbows and arms on your chair or desk, keeping your shoulders relaxed.
+Don't take Risks of long-distance travel during pregnancy.
+Do frequent leg exercises.
+Walk regularly (in the case of air travel, walk around the aircraft cabin if the flight is smooth).
+Avoid dehydration by drinking plenty of water.
+Vary work positions continuously, from sitting to standing and walking.
+While sitting â€“ use small pillow or cushion to provide extra support for your back
+Keep your hips and knees at a right angle when sitting (use a foot rest or stool, if needed). Your feet should be flat on the floor.
+While sitting, point your feet in the same direction, with weight balanced evenly on both feet
+Sleep on your left side with knees slightly bent with a pillow between your knees
+Try simple stretches or any sort of movements to keep the blood flowing. (Contact a ReLiva expert for a customized stretching program as per your stage of pregnancy)
+Try to practice relaxation techniques for stress free pregnancy.
+While standing, hold your head up straight with your chin in. Keep shoulder blades back and your chest forward, knees straight, buttocks tucked in.
+
+Which Foods Should You Eat in the Ninth Month?
+Indulge in healthy and nutritious foods similar to those you had in the first and second trimester. But youâ€™ll need to eat bigger meals as your baby is putting on weight. Here are some foods you should include in the third-trimester pregnancy diet.
+
+1. Fibre-Rich Foods
+Include fresh vegetables, fruits, cereals, oats, bread and whole grains in your diet.
+
+2. Calcium-Rich Foods
+Calcium-rich foods are a must in the last stage of pregnancy. Your growing baby needs calcium for the development of strong bones. Cheese, yoghurt, lentils, almonds, leafy greens are good choices.
+
+3. Iron-Rich Foods
+Iron deficiency is a major problem faced by women in the third trimester. Even if you take iron supplements, your diet should be consist of iron-rich foods. Iron is available in raisins, broccoli, chicken, peas, berries, eggs, fish, etc.
+
+IRON RICH FOODS
+4. Foods With Vitamin C
+Eat tomatoes, cauliflower, strawberries, broccoli, bell-peppers and oranges. These are not only high in vitamin C but are also good for your skin.
+
+
+
+5. Folic Acid-Rich Foods
+Folic acid is vital for your babys' growth, especially for spine development. If you don't take folic acid supplements, add foods like beans, green leafy vegetables, and chickpeas to your plate.
+
+6. Foods With Vitamin A
+Vitamin A is necessary for your babys' eyes and also helps your eye health. Foods like sweet potato, carrots, and spinach are full of Vitamin A.
+
+Summing Up: Foods to Eat During the 9th Month of Pregnancy
+Fresh fruits like strawberries, and oranges
+Fresh veggies like tomatoes, cauliflower, beans, sweet potato, carrots, and peas
+Oatmeal
+Whole-grain foods
+Dairy products like cheese, yoghurt, eggs, chicken, and fish
+Lentils
+Leafy greens like spinach
+Dry fruits like raisins, and almonds
+A balanced diet keeps common pregnancy symptoms like heartburn and constipation at bay. It also ensures the proper development of the fetus.
+"
+
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="20dp" />
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

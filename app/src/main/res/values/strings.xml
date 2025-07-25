@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Maternal Care</string>
+    <!-- res/values/strings.xml -->
+    <string name="month1">Month 1</string>
+    <string name="month2">Month 2</string>
+    <string name="month3">Month 3</string>
+    <string name="month4">Month 4</string>
+    <string name="month5">Month 5</string>
+    <string name="month6">Month 6</string>
+    <string name="month7">Month 7</string>
+    <string name="month8">Month 8</string>
+    <string name="month9">Month 9</string>
+    <string name="month10">Month 10</string>
+    <string name="fa_icon_star">&#xf005;</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="email" />
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">Click to register</string>
+    <string name="logout">logout</string>
+    <string name="Month1_to_Month10">Month1_to_Month10</string>
+    <string name="To_know_about_the_stages_of_baby_in_Pregnancy">To_know_about_the_stages_of_baby_in_Pregnancy</string>
+    <string name="Othercard">Othercard</string>
+    <string name="Hai_hello_its_hari">Hai_hello_its_hari</string>
+    <string name="tracks">Tracks</string>
+    <string name="scheduling">Scheduling</string>
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
+</resources>

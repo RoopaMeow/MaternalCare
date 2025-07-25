@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/little_pink"
+            android:orientation="vertical"
+            android:weightSum="10"
+            app:layout_constraintBaseline_toBaselineOf="parent"
+            tools:layout_editor_absoluteX="28dp">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="287dp"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/nutri">
+
+            </ImageView>
+
+            <TextView
+                android:layout_width="344dp"
+                android:layout_height="9315dp"
+                android:layout_gravity="center_horizontal"
+                android:text="\n MONTH 8 \n
+Pregnancy Diet:
+When you are 8th months pregnant, it is important to consume foods rich in both vitamins and minerals. Ensure you get enough of the following for a healthy and safe pregnancy.
+
+1. Iron - Iron is essential in producing red blood cells in the fetus, which is responsible for carrying blood, oxygen and nutrients through the body. Many pregnant women become anemic due to the increased iron demand. So ensure you include multiple sources of iron such green leafy vegetables, nuts and seeds, dates, figs, legumes.
+
+2. Calcium- Calcium is important for bone and teeth formation in your baby. A pregnant woman also needs more calcium than usual to ensure her bones are strong enough to support the increasing weight and for lactation after delivery.
+
+3. Carbohydrates- Carbohydrates provide essential fuel to carry on your daily tasks including supporting the growing fetus. So, do not avoid carbs just because you are gaining weight during pregnancy, but replace your simple carbs with complex carbs such as whole grains, pulses and legumes.
+
+4. Protein-protein is essential in the formation of cells, muscles, skin, bones and hormones for your babys' development. When you are in the final trimester, the baby is growing quickly and you need enough protein to support this.\n
+Fiber Digestive issues are a big part of pregnancy. Eating foods rich in fibre can help smoothen your bowel movements and reduce constipation.
+
+What to Eat in 8th Month of Pregnancy:
+
+Include the following food items in your 8th month pregnancy diet plan:
+
+1. Fresh Fruits-Fresh and Seasonal Fruits should be included in the diet, as fruits are the source of antioxidants, rich in Vitamin C and Potassium. Fruits like bananas are rich in potassium, which is very important to maintain the electrolyte balance in the body and signal your muscles for contractions. Fruits like oranges, mangoes and lemons are rich in vitamin C and also help you stay hydrated. Avocados and apples are rich in other vitamins and fibre, which can help in better digestion.
+
+2. Fresh Vegetables-Local and seasonal vegetables like carrots, tomatoes and green leafy vegetables can help meet your daily nutritional requirement and add fibre to the diet, during pregnancy. They support the babys' development as well. Ensure you wash the vegetables thoroughly to avoid any bacterial infections.
+
+3. Dairy Products - Products such as milk, curd, cheese and other dairy products are rich in vitamins and minerals that are essential for both the pregnant mother and the fetus.
+
+4. Meat -If you eat meat, try to including chicken/poultry and fish to meet the omega 3 requirements. While they are a rich source of iron and protein, you should be cautious while consuming them. Few variety of fishes can contain mercury, which can cause damage to your babys' developing brain and nervous system. Consuming undercooked meat/chicken/eggs can be very dangerous as it can contain many bacteria, which can affect both mother and baby.
+
+5. Nuts and Nut Butter - Nuts, dry fruits, and nut butter like peanut butter/almond butter are rich in protein, fibre, minerals and healthy fat. They are rich in nutrients, do not increase your weight and can be the perfect snack to carry around when taken in moderation. Every time a pregnancy hunger pang hits you, you can chew on a handful of nuts. And don't worry about the fat, fat is essential for your babys' brain and visual development.
+
+What Not to Eat During 8th Month of Pregnancy.
+Your 8th month pregnancy food must be healthy and safe. Here are some foods you should avoid in the last trimester of your pregnancy:
+
+1. Unpasteurized Milk - Unpasteurized milk can contain bacteria like listeria, E. Coli, salmonella and more. These bacteria can be fatal during pregnancy. Always drink your milk after boiling it or opt for pasteurized milk instead.
+
+2. Uncooked Meat - Uncooked meat like unpasteurized milk can contain many bacteria. Raw meat contains parasites that can spread even by touch. When pregnant, ensure you wash your hands thoroughly with soap, to avoid any infection. It is safer to eat cooked or well-done meat instead of raw or rare meat, when pregnant.
+
+3. Caffeine - Too much caffeine can constrict the blood vessels, thus reducing the blood supply to the fetus. It hinders the iron absorptions in the body. If you are used to your cup of coffee or tea, check with your doctor and restrict your intake to not more than one cup a day.
+
+4. Alcohol and Tobacco - Pregnant women must avoid alcohol and tobacco consumption. They can increase the risk of miscarriage or lead to low birth weight or premature birth. Even secondary smoking can be harmful to the developing baby.
+
+5. Certain Fish Varieties - Fish like sharks, barramundi and swordfish, contain high amounts of mercury, which is not safe during pregnancy. If you eat fish, opt for the low mercury-containing variants and always ensure you eat them cooked.
+
+ Eat slowly and avoid overeating. Large amount of food in your stomach may put more pressure on the valve that keeps stomach acid out of your esophagus, making acid reflux and heartburn more likely
+
+An ideal pregnancy diet must avoid certain foods and include enough fresh fruits, vegetables, nuts and other sources of essential nutrients. Pay close attention to how your body reacts to the diet and change it if necessary. Nutrition should be prioritized over likes and dislikes at this stage.
+
+MONTH:8
+
+Something as simple as sitting comfortably and standing up can be tricky when you're experiencing back or pelvic pain. Here's how to do it in a way that protects your joints.
+How to sit: poor posture
+Sitting with a slumped posture unlocks your pelvis and can be painful when you move. If you sit unsupported, or on a soft chair for a long time, you will end up slumping.
+
+How to sit: good posture
+Sitting straight or with a slightly arched back is a good posture to adopt. Your breasts should be pointing straight ahead or slightly upwards and should not be resting on your tummy. Your legs should be apart so that your bump has somewhere to go.
+
+How to stand up: step 1
+Arch your back and upper chest and part your legs. In this position, slowly work your pelvis back and forth, making your back round and then arched. Do these actions rhythmically a few times, without moving your shoulders.
+
+How to stand up: step 2
+Lean forwards, keeping your back arched and chest stuck out. If getting up is hard on your legs, place your hands by your side, so you can push off the bed or chair.
+
+As you lean forward, ensure your knees are above your toes before you stand fully. This will help you to get your balance and keep you more stable.
+
+Food You should eat in 8th Month of Pregnancy
+1) Eat Higher levels of carbohydrates
+
+Carbohydrates are very important part of diet since they are responsible to provide energy when you are pregnant.
+
+Mother's body will not be able to support the growth of baby without adequate amount of energy.
+
+Some of the great sources of carbohydrates include
+
+Sweet corn, Potatoes
+Pasta
+Banana
+Nuts
+Wheat, Oatmeal
+Whole grain bread and cereals
+
+2) Eat foods packed with vitamins, minerals
+
+Make sure to include foods having adequate amount of calcium, iron, vitamin C and magnesium during eighth month of pregnancy diet.
+
+Eat dry fruits and nuts such as raisins, walnut, almond.
+
+Fruits such as banana, strawberries, citrus fruits, green vegetables, pumpkin and sesame seeds, cereals fortified with iron etc in your diet during pregnancy.
+
+3) Proteins and Fats
+
+Protein are said to be the building blocks of our body. Baby gains around half a pound of weight every week even in 8th month of pregnancy.
+
+So for growth it still needs lot of protein.
+
+Consuming around 75 to 100 grams of protein daily in 8th month of pregnancy diet is ideal. Proteins from legumes, animal sources, nuts and dairy products do help in repairing damaged tissues.
+
+Eating fish will provide you with omega 3 fatty acids which are good for development of nervous system in babies. Control the sweet cravings as they increase unnecessary weight which is difficult to loose post pregnancy.
+
+Eat lot of fruits, vegetables, whole grains as they provide you with necessary minerals and vitamins.
+
+4) Eat lot of Fibrous foods
+
+Remember that the water from digestive tract gets absorbed quickly due to fibrous diet. So drink plenty of water and fresh fruit juices to avoid dehydration symptoms.
+
+Keep constipation at bay, by intake of a lot of fiber-rich food. Go for below foods which are rich in fiber content.
+
+Legumes
+Cauliflower, Celery, spinach, broccoli
+Food items prepared from whole grains
+Avocados
+5) DHA- enriched foods
+
+The rapid growth and development of nervous system is also happening in eighth month of pregnancy.
+
+Eat a lot of foods rich in DHA, since it's one of the essential fatty acid plus significant for the ideal development of babys' brain. Pregnant mothers will need about 200 milligrams of DHA a day.
+
+Include Flaxseeds, fish like tuna, Fish oil, Walnuts etc.
+
+You must be thinking how to plan a healthy and nutritive eating pregnancy diet chart. When the uterus is fully grown with the fetus pressing against body and almost minimum space left for food.
+
+Heartburn may be another major problem. Remember that the fetus does need some growing up to get prepared for a non complicated arrival.
+
+Plus, you need to be ready for labour and safe arrival of baby. 8th month pregnancy diet following may seem to be a tough task, but always keep in mind that it has many good returns to present.
+
+Which Foods to avoid during 8th Month of Pregnancy
+In this phase of pregnancy some of the foods have to be strictly avoided. They can cause the pregnant women discomfort and lead to increase in excess weight.
+
+Having habit of eating foods rich in nutritive content is crucial during this stage of your pregnancy. So that it is advantageous for you and also for the growing fetus.
+
+Foods to eat during eight month of Pregnancy, 8th month pregnancy diet, eight month pregnancy diet, fruits for pregnant, diet chart for pregnant women, diet chart for 8 month pregnant, what to eat in 8th month of pregnancy, what not to eat in 8th month of pregnancy
+
+Below mentioned are some foods that you must avoid completely from your pregnancy diet during 8th month.
+
+1. Unpasteurized Milk
+Avoid cow milk, goat milk or sheep milk if it is not pasteurized. It is very dangerous to consume goat's milk while you are pregnant as it can cause serious complications like Toxoplasmosis.
+
+2. Coffee
+Drinking a lot of coffee harms your pregnant body due to presence of caffeine. It can also lead to increase in constipation like symptoms.
+
+This can make the pregnant women very uncomfortable. Along with coffee, you should avoid carbonated beverages such as soft drinks etc.
+
+3. Marlin, Swordfish and Shark
+These fishes have elevated levels of methyl mercury which can be hazardous to the nervous system of foetus. Choose the fishes that aren't very fatty and are also rich in nutritive value.
+
+4. Raw Or Under cooked Eggs
+You must not include raw or under cooked eggs in 8th month pregnancy diet. Eggs are at a high risk for presence of bacteria like Salmonella.
+
+If not cooked adequately it can lead to symptoms of food poisoning which can even lead to death.
+
+5. Soft Unpasteurized Cheese
+Soft cheese such as Brie cheese may have presence of Listeria in them which can lead to serious diseases like Listeriosis. Since they are not pasteurized and ripening process involves moulds.
+
+Choose the hard cheeses over soft ones during this phase of pregnancy if you get a craving for it.
+
+6. Pate
+Pates have Listeria present in them which can lead to Listeriosis. Ideally avoid all type of pates. Listeria is proved to be fatal in case of foetus and cause cold and flu symptoms in moms to be. When a baby is born it can suffer from miscarriage, stillbirth and other complications.
+
+7. Cured Meats and Liver
+Doctors advise that liver meat has to be avoided throughout pregnancy. You can eat once in a while in small portions if you are craving for it.
+
+You should not eat cured meats such as ham or salami because it increases risk of complications like Listeriosis and Toxoplasmosis.
+
+8. Raw Shell Fish
+As much as it is harmful, it is natural to crave for sushi during your pregnancy. But its a complete No No since shell fish source salmonella and other microorganisms. Which can cause food poisoning and also lead to fatal consequences in the foetus.
+
+9. Alcohol and Tobacco
+As you are in eighth month of pregnancy you very well know that You must avoid tobacco and alcohol for good reasons. All moms desire for a hale and hearty pregnancy than why risk it by falling prey to this habits.
+
+They lead to a lot of damage to the foetus and there is a very high possibility that you may deliver a baby with lot of health issues.
+
+
+Be very cautious of what you consume since it affects the fetus as well.
+
+Eating healthy foods and in right proportions is very crucial in every phase of pregnancy. You have the responsibility of your unborn baby on you. So ensure that you consume nutritious and healthy food which will help your baby in growing and developing ideally.
+
+"
+
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="20dp" />
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

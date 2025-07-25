@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/little_pink"
+            android:orientation="vertical"
+            android:weightSum="10"
+            app:layout_constraintBaseline_toBaselineOf="parent"
+            tools:layout_editor_absoluteX="28dp">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="287dp"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/nutri">
+
+            </ImageView>
+
+            <TextView
+                android:layout_width="344dp"
+                android:layout_height="1851dp"
+                android:layout_gravity="center_horizontal"
+                android:text="\n MONTH 3\n
+Sit up with your back straight and your shoulders back. Your buttocks should touch the back of your chair. Sit with a back support (such as a small, rolled-up towel or a lumbar roll) placed at the hollow of your back.
+
+Your baby gains weight quickly during the third trimester, and parts of their body continue to form. Eyes open, nails form, and hair grows, to name just a few of the things that go on.
+
+With all this stuff happening, the food choices you make are very important for the health of your baby.
+
+Vitamin A
+==helps your babys' bones grow. It also supports their skin and vision. Your babys' eyes open and start to detect light in the third trimester.
+
+You can find vitamin A in:
+
+Fish
+Dairy products
+Carrots
+Cantaloupe
+Spinach
+Sweet potatoes
+Fortified cereals
+
+Vitamin C
+== helps your body take in iron. It also helps make your baby's teeth, gums, and bones healthy. Your immune system needs it, too.
+
+Good options for vitamin C include:
+
+Citrus fruits like oranges, tangerines, and grapefruit
+Kiwi
+Strawberries
+Tomatoes
+Red and green peppers
+Broccoli
+
+Vitamin B6
+==is an important nutrient for the development of red blood cells and your babys' brain. It's in:
+
+Bananas
+Poultry
+Beef
+Fish
+Organ meats, like liver and tongue
+Starchy vegetables like potatoes
+Whole-grain cereals
+
+Vitamin B12
+==keeps the nervous system strong and helps build red blood cells. You can get vitamin B12 through:\n
+
+Beef liver
+Fish
+Poultry
+Other meats
+Dairy products
+Eggs
+Fortified foods
+
+Iodine
+== helps form your babys' brain. You can get iodine in:
+
+Seafood
+Dairy
+Grain products
+Iodized salt
+
+1.Hold your head up straight with your chin in. Don't tilt your head forward, backward or sideways.
+Make sure your ear lobes are in line with the middle of your shoulders.
+Keep your shoulder blades back and your chest forward.
+Keep your knees straight, but not locked.
+Stretch the top of your head toward the ceiling.
+Tighten your stomach, pulling it in and up when you are able. Don't tilt your pelvis forward or backward. Keep your buttocks tucked in when you're able.
+Point your feet in the same direction, with your weight balanced evenly on both feet. The arches of your feet should be supported with low-heeled (but not flat) shoes.
+Avoid standing in the same position for a long time.
+If you need to stand for long periods, adjust the height of the work table to a comfortable level if possible. Try to elevate one foot by resting it on a stool or box. After several minutes, switch your foot position.
+While working in the kitchen, open the cabinet under the sink and rest one foot on the inside of the cabinet. Change feet every five to 15 minutes.
+
+"
+
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="20dp" />
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

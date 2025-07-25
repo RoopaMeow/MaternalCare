@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".d10">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/little_pink"
+            android:orientation="vertical"
+            android:weightSum="10"
+            app:layout_constraintBaseline_toBaselineOf="parent">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="321dp"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/mont10">
+
+            </ImageView>
+
+            <TextView
+                android:layout_width="344dp"
+                android:layout_height="454dp"
+                android:layout_gravity="center_horizontal"
+                android:text="\nYour head should be held up straight; it should not be tilted.
+It is advisable to keep the chest forward and shoulder blades pulled back.
+The earlobes should be aligned with the middle of your shoulders.
+Avoid locking the knees by keeping them straight.
+Refrain from tilting the pelvis forward or backwards."
+                android:textAlignment="center"
+                android:textSize="20dp"
+                android:textColor="@color/black"/>
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

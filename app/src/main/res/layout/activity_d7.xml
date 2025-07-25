@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".d7">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/little_pink"
+            android:orientation="vertical"
+            android:weightSum="10"
+            app:layout_constraintBaseline_toBaselineOf="parent">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="304dp"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/mont7">
+
+            </ImageView>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="722dp"
+                android:layout_gravity="center_horizontal"
+                android:paddingTop="30dp"
+                android:text="Lying down\n
+Pregnancy hormones cause the ligaments to relax. As a result, you may feel uncomfortable, even in bed. Here are tips to help you cope:
+It’s best to avoid lying on your back, especially in late pregnancy, when the weight of the heavy uterus can press on the large blood vessels in your belly.
+
+
+
+                           Sitting\n
+If you work at a desk, proper posture is especially important. Here are tips to help you practice good posture:
+Keep your body in alignment while sitting, and try not to slump or slouch. Use a sturdy chair with low-back support and tilt your pelvis forward to avoid the swayback position. Your knees should be slightly lower than your hips and your feet should touch the floor.
+
+
+
+                           Standing\n
+Here are tips to help you use good posture when standing:
+It’s best to avoid standing for long periods. Try to vary your position often."
+                android:textAlignment="center"
+                android:textSize="20dp"
+                android:textColor="@color/black"/>
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

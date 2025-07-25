@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/little_pink"
+            android:orientation="vertical"
+            android:weightSum="10"
+            app:layout_constraintBaseline_toBaselineOf="parent"
+            tools:layout_editor_absoluteX="28dp">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="287dp"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/nutri">
+
+            </ImageView>
+
+            <TextView
+                android:layout_width="344dp"
+                android:layout_height="4779dp"
+                android:layout_gravity="center_horizontal"
+                android:text="\n MONTH 7 \n
+Lying down Pregnancy hormones cause the ligaments to relax. As a result, you may feel uncomfortable, even in bed. Here are tips to help you cope:
+
+Itâ€™s best to avoid lying on your back, especially in late pregnancy, when the weight of the heavy uterus can press on the large blood vessels in your belly.
+
+When lying on your side, keep your body in line, with your knees bent slightly, and avoid twisting.
+
+Use pillows for support behind your back, between your legs, and under your belly. Most women find that a firm mattress with a good pad provides the best support.
+
+To get out of bed, raise your upper body with your arms and hands to a sitting position, then move your legs over the side of the bed.  Stand up slowly, using your leg muscles.
+
+Sitting
+If you work at a desk, proper posture is especially important. Here are tips to help you practice good posture:
+
+Keep your body in alignment while sitting, and try not to slump or slouch. Use a sturdy chair with low-back support and tilt your pelvis forward to avoid the swayback position. Your knees should be slightly lower than your hips and your feet should touch the floor.
+
+Choose a chair with soft arm rests that allow your shoulders to relax and your elbows to be near your body.
+
+Be careful with chairs on wheels as they may move as you try to sit down or stand up.
+
+Itâ€™s also helpful to get up every hour or so and walk around. Try not to cross your legs while seated as this can impair circulation.
+
+Standing
+Here are tips to help you use good posture when standing:
+
+Itâ€™s best to avoid standing for long periods. Try to vary your position often.
+
+When you do have to stand, keep your feet slightly apart and avoid locking your knees. Remember to keep your pelvis tucked in.
+
+If you have to stand in one place for a long time, place one foot on a small step stool. This takes some of the weight off your lower back.
+
+Good posture can help you look and feel better and may prevent some of the discomforts that can happen later in pregnancy.
+
+
+What Foods Should You Include in Your Diet in the Seventh Month of Your Pregnancy?
+A healthy third-trimester diet during pregnancy has many elements. Your pregnancy diet plan can comprise of all the essential nutrients and you must eat in moderation. Avoid overeating because you will feel severe hunger pangs during this period. Learn more about what foods to eat during the 7th month of pregnancy.
+
+Foods Rich in Iron and Protein: Your body will need an extra dose of iron in the third trimester of your pregnancy to prevent anaemia or haemorrhage during delivery or even premature delivery. You would need approximately 27 mg of iron every day. Dark green vegetables like spinach, turnip leaves, dried fruits like raisins and apricots, pumpkin and sesame seeds, soya beans, red meat and poultry are all iron-rich foods that you can include in your diet. Protein is also important for the healthy growth of the baby. The amino acids present in protein-rich foods like eggs, meat, lentils, chickpeas, pulses and dairy products will provide you with the recommended 75-100 gms of protein a day.
+
+Foods Rich in Calcium: Intake of calcium in the third trimester of pregnancy is considered very crucial as eating calcium-rich foods will aid in the healthy development of your babyâ€™s skeletal system and a robust bone structure. You must aim to get 1000 gm of calcium every day through your diet. You can include dairy products like milk, cheese, paneer and yoghurt as they are rich in calcium.
+Foods Rich in Magnesium: Along with calcium, you will also need magnesium in a proportionate amount in order to assimilate the calcium. Magnesium will help alleviate leg cramps, relax muscles and also prevent premature delivery. You need 350 mg of magnesium daily while pregnant. You can include black beans, oat bran, barley, artichoke, almonds and pumpkin seeds in your diet, as they are rich sources of magnesium.
+
+Foods Rich in DHA: A fatty acid, DHA is essential if you want a child with brains and brawns. A daily intake of 200 mg is recommended for the development of the babyâ€™s brain. Fish oil, fatty fish like tuna, walnuts and flax seeds are some foods loaded with DHA â€“ so include these in your pregnancy diet.
+Foods Rich in Folic Acid: Folic acids lowers the risk of any neural tube defects and aid in the development of a healthy neural system. Make sure you get at least 400 mg of folic acid daily through your pregnancy diet. You can eat dark leafy vegetables, oranges, oatmeal, whole grain bread and fortified cereals to get the recommended dose of folic acid.
+FOLIC ACID
+
+Foods Rich in Fibre: A fibre-rich diet can help clean the bile and prevent constipation. The water in your digestive tract is absorbed by your fibre intake so make sure you drink lots of water. Constipation is common in the third trimester so include, fresh fruits and vegetables, legumes and whole grains in your diet.
+Foods Rich in Vitamin C: Increasing your intake of Vitamin C will help in the proper absorption of iron during pregnancy. Citrus fruits like lemons, oranges and melons, green pepper and broccoli are rich sources of Vitamin C.
+Foods to Avoid in the Seventh Month of Pregnancy
+Just when you know what to eat, bear in mind it is equally important to know what not to eat during this stage. Heartburn, swollen feet and hands, fatigue and constipation, are some common problems that you might experience during this stage of pregnancy. And eating certain foods will certainly aggravate these issues, and it is better to eliminate them from your diet.
+
+FOODS NOT TO EAT:
+
+Spicy and Fatty Foods: Foods high in fat and spice, especially fried food will increase the discomfort of heartburn. They are difficult to digest and may hinder your sleep. Avoid eating fried foods at night.
+Foods High in Sodium: It is important to keep a check on your sodium intake at this stage of pregnancy. High intake of sodium will lead to swelling and bloating. Avoid crisps, pickles, sauces, canned food and ketchup. And drink plenty of fluids and water to regulate your sodium levels in your body.
+Caffeine and Fizzy Beverages: Coffee and tea should be completely avoided during pregnancy. But if you want to drink them, restrict yourself to just one cup a day as it could lead to constipation. Fizzy drinks are loaded with artificial sugar and sweeteners and provide absolutely zero nutrition, so they are best avoided.
+Alcohol: Alcohol is definitely not recommended at any stage of your pregnancy. At this stage, it is imperative that you do not even think of consuming it as it could hinder your delivery process.
+Junk Food: You may crave for fried chicken or burger, but these junk foods are best avoided during pregnancy. Avoid these junk foods and opt for homemade snacks like sandwiches, upma, dhokla, etc.
+
+"
+
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="20dp" />
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

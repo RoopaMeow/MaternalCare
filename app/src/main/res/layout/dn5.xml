@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/little_pink"
+            android:orientation="vertical"
+            android:weightSum="10"
+            app:layout_constraintBaseline_toBaselineOf="parent"
+            tools:layout_editor_absoluteX="28dp">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="287dp"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/nutri">
+
+            </ImageView>
+
+            <TextView
+                android:layout_width="344dp"
+                android:layout_height="838dp"
+                android:layout_gravity="center_horizontal"
+                android:text="\n MONTH 5\nWhatever your habits were before you got pregnant, it's usually safe to:
+
+walk or jog
+do yoga (especially prenatal!)
+swim
+hike outdoors, as long as you do it safely (e.g., with a fellow hiker, on familiar trails)
+take low-impact aerobics or dance classes
+lift light weights (tip: focus more on reps for strength training)
+do stationary cycling
+do stretches and leg lifts
+
+As far as diet, it's recommended that you get about 300 extra calories per day in the second trimester to keep baby happy and fed. It's usually not recommended that you get those extra calories via fast food burgers and nightly milkshakes, but the occasional indulgence is totally fine as long as the majority of your diet is loaded with:
+
+lean sources of protein, like chicken, fish, and beef
+low-fat dairy (cheese, milk, yogurt)
+whole grains (brown rice, quinoa, rolled oats)
+fresh fruits and veggies
+monounsaturated fats, like the kind found in nuts, seeds, olive oil, and avocados
+Finally, make sure you are still avoiding any foods and drinks on the pregnancy no-no list, like alcohol, raw seafood sushi, unpasteurized cheese, and deli meat.
+"
+
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="20dp" />
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

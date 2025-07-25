@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".d9">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/little_pink"
+            android:orientation="vertical"
+            android:weightSum="10"
+            app:layout_constraintBaseline_toBaselineOf="parent">
+
+            <ImageView
+                android:layout_width="346dp"
+                android:layout_height="291dp"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/mont9">
+
+            </ImageView>
+
+            <TextView
+                android:layout_width="390dp"
+                android:layout_height="849dp"
+                android:layout_gravity="center_horizontal"
+                android:text="\nTry to avoid sitting in the same position for more than 30 minutes. At work, adjust your chair height and workstation so you can sit up close to your work and tilt it up at you. Rest your elbows and arms on your chair or desk, keeping your shoulders relaxed.
+\nDon't take Risks of long-distance travel during pregnancy.
+\nDo frequent leg exercises.
+\nWalk regularly.
+\nAvoid dehydration by drinking plenty of water.
+\nVary work positions continuously, from sitting to standing and walking.
+\nWhile sitting – use small pillow or cushion to provide extra support for your back
+\nKeep your hips and knees at a right angle when sitting.Your feet should be flat on the floor.
+\nWhile sitting, point your feet in the same direction, with weight balanced evenly on both feet
+\nSleep on your left side with knees slightly bent with a pillow between your knees
+\nTry simple stretches or any sort of movements to keep the blood flowing.
+\nTry to practice relaxation techniques for stress free pregnancy.
+\nWhile standing, hold your head up straight with your chin in. Keep shoulder blades back and your chest forward, knees straight, buttocks tucked in.
+"
+                android:textAlignment="center"
+                android:textSize="20dp"
+                android:textColor="@color/black"/>
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
